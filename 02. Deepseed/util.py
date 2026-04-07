@@ -5,7 +5,8 @@ class TokenizerUtil:
 
     def __init__(self):
         from transformers import AutoTokenizer
-        tokenizer = AutoTokenizer.from_pretrained('facebook/opt-1.3b')
+        # 首先执行downloader下载到本地
+        tokenizer = AutoTokenizer.from_pretrained('/root/autodl-tmp/StudyLLM/02. Deepseed/opt-1.3b')
         tokenizer.bos_token = '<s>'
 
         self.pad_token_id = tokenizer.pad_token_id
