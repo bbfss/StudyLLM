@@ -18,9 +18,10 @@
 
 ## 3. huggingface-transformer库熟悉
 
-用huggingface稍微熟悉下transformers的使用
+使用了transformers库里面的各种函数的使用， 只是稍微看了下， 大概知道有什么东西，基本看懂
 
 **参考项目来源**：[zyds/transformers-code](https://github.com/zyds/transformers-code)
 
+**视频教程**: [你可是处女座啊的视频 | 可以参考下，反正我就看了两个就没看了](https://www.bilibili.com/video/BV1KX4y1a7Jk)
 
 
