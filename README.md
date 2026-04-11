@@ -7,7 +7,7 @@
 
 ## 1. LLaMA3 架构解析与实践
 复现了 **GQA** (Grouped-Query Attention)、**RoPE** (旋转位置编码) 以及 **SwiGLU** 激活函数。跑了下LLama3
-## 2. RLHF & PPO 算法复现
+## 2. DeepSpeed - RLHF & PPO 算法复现
 复现了DeepSpeed的RLHF的项目
 
 **参考项目来源**：[lansinuote/Simple_RLHF](https://github.com/lansinuote/Simple_RLHF/blob/main/3.rlhf.ipynb)
@@ -25,3 +25,5 @@
 **视频教程**: [你可是处女座啊的视频 | 可以参考下，反正我就看了两个就没看了](https://www.bilibili.com/video/BV1KX4y1a7Jk)
 
 
+## 04. 复现和研究DeepSeek
+MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](https://www.bilibili.com/video/BV1RtNLeqEeu/?vd_source=ec51181096be43428187c61347965a9b)
