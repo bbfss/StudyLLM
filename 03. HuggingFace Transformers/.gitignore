@@ -1,3 +1,5 @@
 rbt3/
 tokenizer/
 processed_dataset/
+*.pth
+afqmc_public/

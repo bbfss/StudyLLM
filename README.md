@@ -24,6 +24,7 @@
 
 **视频教程**: [你可是处女座啊的视频 | 可以参考下，反正我就看了两个就没看了](https://www.bilibili.com/video/BV1KX4y1a7Jk)
 
+后续复现参考官方文档 : [Transformers快速入门](https://transformers.run/)
 
 ## 04. 复现和研究DeepSeek
 MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](https://www.bilibili.com/video/BV1RtNLeqEeu/?vd_source=ec51181096be43428187c61347965a9b)
