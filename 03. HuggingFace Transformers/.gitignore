@@ -3,3 +3,5 @@ tokenizer/
 processed_dataset/
 *.pth
 afqmc_public/
+lcsts_tsv/
+*.bin
