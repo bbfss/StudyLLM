@@ -5,3 +5,4 @@ processed_dataset/
 afqmc_public/
 lcsts_tsv/
 *.bin
+cmrc2018/
