@@ -28,3 +28,14 @@
 
 ## 04. 复现和研究DeepSeek
 MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](https://www.bilibili.com/video/BV1RtNLeqEeu/?vd_source=ec51181096be43428187c61347965a9b)
+
+
+## 05. Langchain工具学习使用
+
+学习Langchain的工具使用，参考资料
+1. [dive2LangGraph](https://larryli93.github.io/dive-into-langgraph-plus/)
+2. [dive2LangGraph | github代码](https://github.com/LarryLi93/dive-into-langgraph-plus/blob/main/.env.example)
+3. [官方文档的中文翻译](https://larryli93.github.io/dive-into-langgraph-plus/)
+4. [视频教程 | 我没看](https://www.bilibili.com/video/BV1pRiWB8EXy/?vd_source=ec51181096be43428187c61347965a9b)
+
+2026.4.16 - :主要是学习基础的使用
