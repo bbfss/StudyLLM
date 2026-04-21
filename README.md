@@ -40,4 +40,8 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 
 2026.4.16 - 20264.19 :主要是学习基础的使用01-06 大概懂了， MCP没学感觉dive2LangGraph里面看不懂
 
-## 06. 
+## 06. RAG学习
+
+第六部分是学习RAG，参考资料主要是：[MasteringRAG](https://github.com/Steven-Luo/MasteringRAG/tree/main?tab=readme-ov-file)
+
+2026.4.19 - 2026.4 
