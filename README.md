@@ -44,4 +44,13 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 
 第六部分是学习RAG，参考资料主要是：[MasteringRAG](https://github.com/Steven-Luo/MasteringRAG/tree/main?tab=readme-ov-file)
 
-2026.4.19 - 2026.4 
+2026.4.19 - 2026.4.21 学习 01. 使用RAG技术构建企业级文档问答系统之QA抽取
+感觉MasteringRAG对于新手的我有点难，后面去学07部分了
+
+## 07. ALL in RAG
+
+第七部分也是学RAG，但是感觉这个项目应该更加适合新手
+
+我直接使用git clone https://github.com/datawhalechina/all-in-rag.git 把项目clone到文件夹学
+
+同时参考[ALL in RAG官方文档](https://datawhalechina.github.io/all-in-rag/#/chapter1/02_preparation?id=%e5%9b%9b%e3%80%81windows%e7%8e%af%e5%a2%83%e9%85%8d%e7%bd%ae%ef%bc%88%e4%bd%bf%e7%94%a8cloud-studio-%e6%88%96-codespaces-%e5%8f%af%e8%b7%b3%e8%bf%87%e6%ad%a4%e6%ad%a5%e9%aa%a4%ef%bc%89)
