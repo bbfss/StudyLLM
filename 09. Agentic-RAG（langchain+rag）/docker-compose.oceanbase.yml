@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  oceanbase:
+    image: quay.io/oceanbase/oceanbase-ce:4.3.3.1-101000012024102216
+    container_name: oceanbase-rag
+    environment:
+      MODE: mini
+      OB_SERVER_IP: 127.0.0.1
+    ports:
+      - "2881:2881"
+    volumes:
+      - ./volumes/oceanbase:/root/ob
+    restart: unless-stopped
+
