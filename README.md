@@ -49,8 +49,34 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 
 ## 07. ALL in RAG
 
+2026.4.22-2026.5.9 有点琐事，学的慢了点
+
 第七部分也是学RAG，但是感觉这个项目应该更加适合新手
 
 我直接使用git clone https://github.com/datawhalechina/all-in-rag.git 把项目clone到文件夹学
 
 同时参考[ALL in RAG官方文档](https://datawhalechina.github.io/all-in-rag/#/chapter1/02_preparation?id=%e5%9b%9b%e3%80%81windows%e7%8e%af%e5%a2%83%e9%85%8d%e7%bd%ae%ef%bc%88%e4%bd%bf%e7%94%a8cloud-studio-%e6%88%96-codespaces-%e5%8f%af%e8%b7%b3%e8%bf%87%e6%ad%a4%e6%ad%a5%e9%aa%a4%ef%bc%89)
+
+## 08. export-rag
+ 
+ 2026.5.9 - ？ 这里我自己企图做一个外贸客服的Agent
+
+ ## 09. Agentic-RAG
+
+2026.5.9 - 2026.5.10 复现了下Corrective RAG，知道了RAG和llm结合的几种方式
+
+## Agent相关的开发先放一放，上训练
+
+# 训练篇
+
+## 10. 高效微调
+
+[微调原理 | 视频没看，直接看了下面的代码](https://www.bilibili.com/video/BV1Xu4y1k7Ls/)
+
+2026.5.18 - 2026.5.19 开始实战嬛嬛chat
+[PEFT实战 | 嬛嬛chat](https://github.com/datawhalechina/self-llm/blob/master/examples/Chat-%E5%AC%9B%E5%AC%9B/readme.md)
+
+## 11.高效微调|Anti-Frad
+2026.5.20 - 2026.5.2 开始学习Anti-frad
+[sft + peft实战 | anti-frad](https://github.com/golfxiao/anti_fraud_sft)
+

@@ -241,7 +241,6 @@ def run_crag(data_path: str, question: str, drop_old: bool) -> None:
     else:
         print(fallback_answer(question))
 
-
 def run_agent(data_path: str, question: str, drop_old: bool) -> None:
     try:
         from langgraph.prebuilt import create_react_agent
