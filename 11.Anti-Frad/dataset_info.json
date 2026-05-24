@@ -1,0 +1,26 @@
+{
+  "anti_fraud_0819_train": {
+    "file_name": "data/train_test/train0819_alpaca.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "anti_fraud_0819_eval": {
+    "file_name": "data/train_test/eval0819_alpaca.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "anti_fraud_0819_test": {
+    "file_name": "data/train_test/test0819_alpaca.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
