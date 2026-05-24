@@ -77,6 +77,8 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 [PEFT实战 | 嬛嬛chat](https://github.com/datawhalechina/self-llm/blob/master/examples/Chat-%E5%AC%9B%E5%AC%9B/readme.md)
 
 ## 11.高效微调|Anti-Frad
-2026.5.20 - 2026.5.2 开始学习Anti-frad
+2026.5.20 - 2026.5.24 
+开始学习Anti-frad，复现了Lora单卡训练
+学习使用LLamafactory 一键式Lora微调，只要先配置好joson文件数据库注册，然后再配置好yaml训练参数脚本进行训练就行
 [sft + peft实战 | anti-frad](https://github.com/golfxiao/anti_fraud_sft)
 
