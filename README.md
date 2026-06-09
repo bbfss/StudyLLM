@@ -76,9 +76,17 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 2026.5.18 - 2026.5.19 开始实战嬛嬛chat
 [PEFT实战 | 嬛嬛chat](https://github.com/datawhalechina/self-llm/blob/master/examples/Chat-%E5%AC%9B%E5%AC%9B/readme.md)
 
-## 11.高效微调|Anti-Frad
+## 11.高效微调 + LLamafactory使用|Anti-Frad
 2026.5.20 - 2026.5.24 
 开始学习Anti-frad，复现了Lora单卡训练
 学习使用LLamafactory 一键式Lora微调，只要先配置好joson文件数据库注册，然后再配置好yaml训练参数脚本进行训练就行
 [sft + peft实战 | anti-frad](https://github.com/golfxiao/anti_fraud_sft)
 
+## 12. 吴恩达强化学习教程
+2026.5.27 - 
+[吴恩达强化学习课程，全看完了，不长](https://www.bilibili.com/video/BV1PmJzzpEqG/?vd_source=ec51181096be43428187c61347965a9b)
+
+## 13. Hands on RL 项目学习
+在github上了Hands on RL 具体的学习RL 和 Agentic RL 里面各种微调策略DPO，PPO，GRPO，想要敲代码实现
+2026.5.29 - 
+[Hands on RL 项目学习](https://walkinglabs.github.io/hands-on-modern-rl/preface/env-setup)
