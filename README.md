@@ -88,5 +88,5 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 
 ## 13. Hands on RL 项目学习
 在github上了Hands on RL 具体的学习RL 和 Agentic RL 里面各种微调策略DPO，PPO，GRPO，想要敲代码实现
-2026.5.29 - 
+2026.6.30 - 2026
 [Hands on RL 项目学习](https://walkinglabs.github.io/hands-on-modern-rl/preface/env-setup)
