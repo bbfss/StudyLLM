@@ -90,3 +90,18 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 在github上了Hands on RL 具体的学习RL 和 Agentic RL 里面各种微调策略DPO，PPO，GRPO，想要敲代码实现
 2026.6.30 - 2026
 [Hands on RL 项目学习](https://walkinglabs.github.io/hands-on-modern-rl/preface/env-setup)
+
+学习PPO的具体理论 + 
+
+## 14. Verl项目学习
+2026.7.21-2026.7.22
+Verl貌似是字节出的项目，然后主要是学习各种微调技术
+
+1. [Hands on RL - PPO](https://walkinglabs.github.io/hands-on-modern-rl/chapter15_rlhf/verl-ppo-gsm8k)
+
+# 15. 动手学强化学习
+
+2026.7.22 - 2026
+
+学了上交的动手学强化学习，然后这里我发现他都是一个个toy代码， 方便我从代码上理解强化学习的原理
+
