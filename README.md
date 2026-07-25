@@ -91,7 +91,8 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 2026.6.30 - 2026
 [Hands on RL 项目学习](https://walkinglabs.github.io/hands-on-modern-rl/preface/env-setup)
 
-学习PPO的具体理论 + 
+2026.7.24 学习GRPO
+2026.7.25 学习DPO
 
 ## 14. Verl项目学习
 2026.7.21-2026.7.22
@@ -105,3 +106,6 @@ Verl貌似是字节出的项目，然后主要是学习各种微调技术
 
 学了上交的动手学强化学习，然后这里我发现他都是一个个toy代码， 方便我从代码上理解强化学习的原理
 
+单个RL算法学习：
+1. 15 动手学深度学习-PPO （学习PPO关键步骤细节）
+2. 16 huggingface-TRL-GRPO （学习GRPO关键步骤细节）
