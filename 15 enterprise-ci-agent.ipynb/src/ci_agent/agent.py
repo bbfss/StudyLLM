@@ -28,6 +28,12 @@ submit / step limit       = Terminal
                   |
                   |
               下一轮
+              
+agent.py
+├── 控制多轮循环
+├── 调用 Model
+├── 调用 Environment
+└── 收集 messages
 
 """
 
@@ -35,6 +41,11 @@ submit / step limit       = Terminal
 
 from ci_agent.environment import Environment
 from ci_agent.model import Message, Model
+
+from pathlib import Path
+from typing import Any
+
+from ci_agent.trajectory import save_trajectory, serialize_trajectory
 
 
 class Agent:
@@ -151,3 +162,14 @@ class Agent:
             )
 
         return False
+    
+    def serialize(self) -> dict[str, Any]:
+        return serialize_trajectory(
+            messages=self.messages,
+            n_calls=self.n_calls,
+        )
+
+    def save(self, path: str | Path) -> dict[str, Any]:
+        trajectory = self.serialize()
+        save_trajectory(trajectory, path)
+        return trajectory
