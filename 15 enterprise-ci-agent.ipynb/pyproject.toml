@@ -1,0 +1,11 @@
+# 这个文件使用发现使用的是 setuptools 构建后端，于是调用它来解析 pyproject.toml 文件，它把 src/ 目录下的文件夹
+#（包含 __init__.py 的那个） 抽象成了 Python 包。
+
+[project]
+name = "enterprise-ci-agent"
+version = "0.1.0"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta" 

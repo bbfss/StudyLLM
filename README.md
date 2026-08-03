@@ -94,7 +94,14 @@ MOE部分：**参考资料** [懂点AI事 | 搭配视频感觉学会的更快](h
 2026.7.24 学习GRPO
 2026.7.25 学习DPO
 
+2026.8.1 学习20章Agentic RL
+
 ## 14 Search-R1
 2026.7.31 - 2026.8 学习Hands on RL 结合 Search-R1的知识进行学习
+先把Search Agent放一放，弄一个Code Agent
+
+
+## 15 Swe-RL
+2026.8.3 Code Agent 开启
 
 
